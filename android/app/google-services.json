@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646060616762",
+    "project_id": "esar-c",
+    "storage_bucket": "esar-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646060616762:android:407b07e47e3d88f1995903",
+        "android_client_info": {
+          "package_name": "com.example.esar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646060616762-s8r01c9sb53374hnl3sp4a1cf0s2drc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPLKaM-4Gqks0DBBujR8-eRyrVqawHI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646060616762-s8r01c9sb53374hnl3sp4a1cf0s2drc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
